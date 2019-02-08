@@ -1,0 +1,55 @@
+{
+  "card1":[{
+  "image":"image/503.jpg",
+  "name":"kalyani",
+  "occ":"student",
+  "profile":"profile"
+},
+ {
+  "image":"image/503.jpg",
+  "name":"dodda's",
+  "occ":"student",
+  "profile":"profile"
+}
+],
+"personalDetails":{
+  "image":"image/503.jpg",
+  "myname":"KALYANI",
+  "designation":"student",
+  "fname":"d/o ANJANEYULU",
+  "email":"doddakalyani503@gmail.com",
+  "phoneno":"9951603716",
+  "address":"address"
+},
+  "CAREEROBJECTIVE":
+  {
+    "obj":"CAREEROBJECTIVE",
+    "co":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+  },
+  "edu1": [{
+    "qualification":"Graduation",
+    "inst":" bachelor of techonology (computer science),Qis college of engineering and techonology,ongole,prakasam district,secured 80% marks."
+  },
+  {
+    "qualification":"Intermediate",
+    "inst":"Board of intermidate,sri prabitha junior college,ongole,prakasam,secured 864 marks."
+  },
+  {
+    "qualification":"Ssc",
+    "inst":"Board of secondary,v.b.H School,addanki,addanki mandal,prakasam,secured 8.3 CGPA."
+  }
+],
+
+
+  "ACHEIVEMENTS":
+  {
+    "awdname":"ACHEIVEMENTS",
+    "achive":" diaster management certificate,qis college of engineering and techonology,ongole,prakasam."
+  },
+
+  "HOBBIES":
+  {
+    "hobbiesName":"HOBBIES",
+    "hobbie":"watching tv,listening music."
+}
+  }
